@@ -1,4 +1,4 @@
-# Prodigy-InfoTech
+# Prodigy-InfoTech Data Science Internship
 # Internship ReadMe: Prodigy Infotech Data Science Tasks
 
 ## Overview:-
